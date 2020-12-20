@@ -1,7 +1,8 @@
 
 <p><code> ✨ Dhaneshmon D S</code> | <code>⚡ Full Stack, Lead Consultant</code> | <code>📫 India, Hyderabad</code> | <code>🔭 Freelancer</code> </p>
-💬 About me..
 <hr/>
+💬 About me..
+
 A Software Engineer who specialized in providing Enterprise application, web solutions, mobile applications and custom desktop application to make businesses more productive. I have extensive experience in process design and process improvement and can help streamline business processes and automate them where ever possible.
 
 I have been in the IT industry for nearly 11 years… I am as working Lead Consultant at HCL Technologies Since 2018.  UST Global Trivandrum was my last company. Other previous employers were Xerox Services (2013), Calpine Group (2011) and my IT career started with Wigwag Info Technologies in 2009.
