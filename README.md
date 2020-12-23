@@ -11,6 +11,9 @@
 </div>
 <p><code>⚡ Full Stack, Lead Consultant</code> | <code>📫 India, Hyderabad, Trivandrum</code> | <code>🔭 Freelancer</code> </p>
 <hr/>
+
+<img align="right" alt="Dhaneshmon's Blog" width="22px" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/aspdotnetcore.png" />
+
 💬 About me..
 
 A Software Engineer who specialized in providing Enterprise application, web solutions, mobile applications and custom desktop application to make businesses more productive. I have extensive experience in process design and process improvement and can help streamline business processes and automate them where ever possible.
