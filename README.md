@@ -8,6 +8,7 @@
 <a href="https://twitter.com/dhaneshmon" target="_blank" rel="nofollow"><img align="right" alt="Dhaneshmon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://dhaneshmon.wordpress.com/" target="_blank" rel="nofollow"><img align="right" alt="Dhaneshmon's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /></a>
 <a href="mailto:dhaneshmon@gmail.com" target="_blank" rel="nofollow"><img align="right" alt="Dhaneshmon's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="https://wa.me/919496369269" target="_blank" rel="nofollow"><img align="right" alt="Dhaneshmon's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
 </div>
 <p><code>⚡ Full Stack, Lead Consultant</code> | <code>📫 India, Hyderabad, Trivandrum</code> | <code>🔭 Freelancer</code> </p>
 <hr/>
