@@ -1,5 +1,14 @@
-
-<p><code> ✨ Dhaneshmon D S</code> | <code>⚡ Full Stack, Lead Consultant</code> | <code>📫 India, Hyderabad</code> | <code>🔭 Freelancer</code> </p>
+<div align="center">
+  Dhaneshmon D S - Full Stack, Lead Consultant
+ 
+<a href="https://www.linkedin.com/in/dhaneshmon" target="_blank" rel="nofollow"><img align="right" alt="Dhaneshmon's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.facebook.com/dhaneshmonds/" target="_blank" rel="nofollow"><img align="right" alt="Dhaneshmon's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.instagram.com/dhaneshmon" target="_blank" rel="nofollow"><img align="right" alt="Dhaneshmon's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/dhaneshmon" target="_blank" rel="nofollow"><img align="right" alt="Dhaneshmon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://dhaneshmon.wordpress.com/" target="_blank" rel="nofollow"><img align="right" alt="Dhaneshmon's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /></a>
+<a href="mailto:dhaneshmon@gmail.com" target="_blank" rel="nofollow"><img align="right" alt="Dhaneshmon's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+</div>
+<p><code>⚡ Full Stack, Lead Consultant</code> | <code>📫 India, Hyderabad, Trivandrum</code> | <code>🔭 Freelancer</code> </p>
 <hr/>
 💬 About me..
 
@@ -24,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
