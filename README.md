@@ -11,9 +11,37 @@
 </div>
 <p><code>⚡ Full Stack, Lead Consultant</code> | <code>📫 India, Hyderabad, Trivandrum</code> | <code>🔭 Freelancer</code> </p>
 <hr/>
-
-<img align="right" alt="Dhaneshmon's Blog" width="22px" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/aspdotnetcore.png" />
-
+<div >
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/node.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/dotnet.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/csharp.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/aspdotnetcore.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/azure.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/typescript.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/visualstudio.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/docker.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/angular.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/javascript.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/es6.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/bootstrap.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/elasticsearch.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/kibana.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/css.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/html.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/jquery.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/php.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/drupal.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/wordpress.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/nginx.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/git.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/sql.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/mongodb.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/mariadb.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/mysql.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/postgres.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/oracledb.png" /></a>
+<a rel="noopener noreferrer" href="#"><img alt="Asp.net Core" width="50" height="50" src="https://github.com/Dhaneshmonds/Dhaneshmonds/blob/main/asset/images/selenium.png" /></a>
+</div>
 💬 About me..
 
 A Software Engineer who specialized in providing Enterprise application, web solutions, mobile applications and custom desktop application to make businesses more productive. I have extensive experience in process design and process improvement and can help streamline business processes and automate them where ever possible.
